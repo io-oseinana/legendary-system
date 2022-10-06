@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=io-oseinana/legendary-system)
+
 # legendary-system
 
 > A personal projects repo
