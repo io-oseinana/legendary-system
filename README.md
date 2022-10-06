@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=io-oseinana/legendary-system)
+![](https://api.visitorbadge.io/api/VisitorHit?user=io-oseinana&repo=legendary-system&label=Visitors-to-lengendary-system-repo🤩&labelColor=blue&countColor=orange)
 
 # legendary-system
 
